@@ -1,5 +1,3 @@
-# RFM_clustering
+# Customer Segmentation (RFM Clustering)
 
-RFM stands for Recency, Frequency and Monetary value. We use this technique to divide the
-customers into different segments like High-value, medium-value, or low-value customers, using
-the K-means algorithm with Python
+A case study applying RFM (Recency, Frequency, Monetary) analysis to segment customers into High-value, Medium-value, and Low-value groups, using K-means clustering in Python.
